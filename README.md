@@ -72,15 +72,36 @@ To install and run the program you use [Git](https://git-scm.com). From your com
 
 ```bash
 # Clone this repository.
-$ git clone https://github.com/TalMizrahii/MusicBrains-WebCralwer
+$ git clone [Parallel-SIMD-and-Intrinsics](https://github.com/TalMizrahii/Parallel-SIMD-and-Intrinsics)
 
 # Navigate to the repository directory:
-$ cd MusicBrains-WebCrawler
+$ cd Parallel-SIMD-and-Intrinsics
+```
 
-# Run the program
-$ python musicrawl.py
+### To run strings:
+```bash
+# Enter strings:
+$ cd strings
+
+# Compile the program:
+$ make
+
+# Run the program:
+$ make run
+```
+
+### To run fornulas:
+```bash
+# Enter formulas:
+$ cd formulas
+
+# Compile the program:
+$ make
+
+# Run the program:
+$ make run
 ```
 ## Authors
 
 * [@Tal Mizrahi](https://github.com/TalMizrahii)
-* Taltalon1927@gmail.com
+* [@Shilo Padael](https://github.com/shilopadael)
