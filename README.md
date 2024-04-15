@@ -45,13 +45,18 @@ This part involves mathematical formulas applied to arrays of floating-point num
 ### The First Formula
 
 Formula 1 calculates the expression:
-\[1 + \sum_{k=1}^{n} \sqrt{x_k} \times \prod_{k=1}^{n} (x_k^2 + 1)\]
+
+![2](https://github.com/TalMizrahii/Parallel-SIMD-and-Intrinsics/assets/103560553/ab7364b0-bfdd-4df2-9f09-be1b8a863a46)
+
 The implementation is in C using intrinsics, in the file named `formula1.c`.
 
 ### The Second Formula
 
 Formula 2 computes the expression:
-\[ \sum_{k=1}^{n} x_k \times y_k \times \prod_{i=1}^{n} (x_i^2 + y_i^2 - 2x_i y_i + 1) \]
+
+![1](https://github.com/TalMizrahii/Parallel-SIMD-and-Intrinsics/assets/103560553/5b4fe6eb-762d-4d11-89a4-e22952de3ed2)
+
+
 The implementation is in assembly language, specifically in the file named `formula2.s`.
 
 ## Dependencies
@@ -75,7 +80,7 @@ $ cd MusicBrains-WebCrawler
 # Run the program
 $ python musicrawl.py
 ```
-## Author
+## Authors
 
 * [@Tal Mizrahi](https://github.com/TalMizrahii)
 * Taltalon1927@gmail.com
