@@ -29,9 +29,13 @@ In this part, two string operators are implemented using SSE/AVX instructions an
 
 ### Hamming Distance
 
+![download](https://github.com/TalMizrahii/Parallel-SIMD-and-Intrinsics/assets/103560553/ef9f1921-2ed3-4a47-8387-eeac0e586e1d)
+
 The Hamming distance between two strings is calculated as the number of positions at which the corresponding symbols are different. The implementation is done in assembly language only, specifically in the file named `hamming.s`.
 
 ### Base 64 Distance
+
+  <img width="368" alt="1" src="https://github.com/TalMizrahii/Parallel-SIMD-and-Intrinsics/assets/103560553/ad96798e-1e62-4b63-bb85-d43488c8f4aa.PNG">
 
 The Base64 distance between two strings involves:
 1. Removing non-base 64 characters while maintaining the order of every other character.
