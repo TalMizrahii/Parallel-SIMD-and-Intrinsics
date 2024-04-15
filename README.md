@@ -42,7 +42,7 @@ The Hamming distance between two strings is calculated as the number of position
 
 ### Base 64 Distance
 
-  <img width="368" alt="1" src="https://github.com/TalMizrahii/Parallel-SIMD-and-Intrinsics/assets/103560553/ad96798e-1e62-4b63-bb85-d43488c8f4aa.PNG">
+![images](https://github.com/TalMizrahii/Parallel-SIMD-and-Intrinsics/assets/103560553/719b431d-76ef-4d06-830b-333c32940a0f)
 
 The Base64 distance between two strings involves:
 1. Removing non-base 64 characters while maintaining the order of every other character.
