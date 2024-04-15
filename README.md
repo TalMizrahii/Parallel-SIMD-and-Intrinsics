@@ -1,8 +1,10 @@
 <h1 align="center">
   
-![Assembly-and-C-exercise](https://your-repo-url/assembly-and-C-exercise/assets/103560553/501dc4f5-570a-4b61-952a-477884518fce)
+  <br>
+<img width="200" alt="pStringMem" src="https://github.com/TalMizrahii/Assembly-Pstrings/assets/103560553/cc350fec-e689-4cd4-bdac-b3986187c914">
 
-  Assembly and C Exercise
+  <br>
+  Assembly SIMD and C Intrisics
   <br>
 </h1>
 
@@ -22,6 +24,8 @@
 ### About The Exercise
 
 The Assembly and C Exercise aims to practice assembly language programming using SSE/AVX instructions and C SSE/AVX intrinsics. It consists of two unrelated parts: string processing and floating-point calculations. Each part comprises various tasks and utilizes different source files for its environment.
+
+![download](https://github.com/TalMizrahii/Parallel-SIMD-and-Intrinsics/assets/103560553/eb54db1c-8269-4bd8-a120-1f2e2288453b)
 
 ## Part I - Strings
 
