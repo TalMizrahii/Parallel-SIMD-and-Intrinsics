@@ -23,6 +23,9 @@
 
 ### About The Exercise
 
+![download](https://github.com/TalMizrahii/Parallel-SIMD-and-Intrinsics/assets/103560553/6b4b0a3f-34e8-4b84-af30-638abd585e58)
+
+
 The Assembly and C Exercise aims to practice assembly language programming using SSE/AVX instructions and C SSE/AVX intrinsics. It consists of two unrelated parts: string processing and floating-point calculations. Each part comprises various tasks and utilizes different source files for its environment.
 
 ![download](https://github.com/TalMizrahii/Parallel-SIMD-and-Intrinsics/assets/103560553/eb54db1c-8269-4bd8-a120-1f2e2288453b)
