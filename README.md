@@ -101,7 +101,7 @@ $ make
 $ make run
 ```
 
-### To run fornulas:
+### To run formulas:
 ```bash
 # Enter formulas:
 $ cd formulas
